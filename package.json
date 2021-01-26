@@ -35,5 +35,9 @@
   "bugs": {
     "url": "https://github.com/MehaBhandari/technofunnel_node/issues"
   },
-  "homepage": "https://github.com/MehaBhandari/technofunnel_node#readme"
+  "homepage": "https://github.com/MehaBhandari/technofunnel_node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vash": "^0.13.0"
+  }
 }
