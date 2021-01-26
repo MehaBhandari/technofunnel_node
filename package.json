@@ -1,0 +1,39 @@
+{
+  "name": "technofunnel",
+  "version": "1.0.0",
+  "description": "TechnoFunnel website on Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehaBhandari/technofunnel_node.git"
+  },
+  "keywords": [
+    "technofunnel",
+    "training",
+    "technical",
+    "training",
+    "technical",
+    "trainer",
+    "UI",
+    "trainer",
+    "UI",
+    "training",
+    "React",
+    "ReactJs",
+    "Node",
+    "NodeJs",
+    "training",
+    "institute",
+    "JavaScript",
+    "Angular"
+  ],
+  "author": "technofunnel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MehaBhandari/technofunnel_node/issues"
+  },
+  "homepage": "https://github.com/MehaBhandari/technofunnel_node#readme"
+}
