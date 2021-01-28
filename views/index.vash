@@ -580,7 +580,7 @@
                   </div>
                 </div>
               </div>
-
+              
               <div class="item-box portfolio-item col-md-4 col-sm-6 col-xs-12 mix mix_all frontend digital-goods icons">
                 <div class="inner-box">
                   <figure class="image"><img style="width: 370px; height: 236px;"  src="./images/six-sigma.jpg" alt="">
@@ -590,6 +590,19 @@
                   </figure>
                   <div class="under-caption text-center">
                     <div class="item-title"><a href="#">Six Sigma</a></div>
+                    <div class="item-category"><a href="#">TechnoFunnel</a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="item-box portfolio-item col-md-4 col-sm-6 col-xs-12 mix mix_all frontend digital-goods icons">
+                <div class="inner-box">
+                  <figure class="image"><img style="width: 370px; height: 236px;"  src="./images/Six-Sigma-Belt-Level.png" alt="">
+                    <div class="zoom-style-one"><a href="./images/Six-Sigma-Belt-Level.png" class="lightbox-image"
+                        title="Six Sigma Belt Level"><span class="line-vertical"></span> <span
+                          class="line-horizontal"></span></a></div>
+                  </figure>
+                  <div class="under-caption text-center">
+                    <div class="item-title"><a href="#">Six Sigma Belt Level</a></div>
                     <div class="item-category"><a href="#">TechnoFunnel</a></div>
                   </div>
                 </div>
